@@ -47,4 +47,4 @@ Build the target environment:
     - and then you'll have to enter the path to a "gbuild"-folder in your LOCAL_ROOT-folder.
   - BTW: It's expected that the current version of the perl-script creates several "Could not find file _name_ in any of the source trees."-messages.
 
-We are on https://bluewaysw.slack.com/ for more efficient collaboration. If you are a collaborator by issuing a pull request and you are registered at blog.bluewaysw.de for MyGEOS you will be invited to join us. Welcome!
+We are on https://bluewaysw.slack.com/ for more efficient collaboration. If you are a collaborator by issuing a pull request and you are registered at blog.bluewaysw.de for MyGEOS you will be invited to join us. Welcome!!
